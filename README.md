@@ -1,33 +1,42 @@
-## React Stock Trading Simulator 
+## FUNDFUN
 
-![Logo](/src/assets/images/horizonal_logo.png)
+### Overview:
+The project aims to create an application that enables users to engage in simulated real-time stock trading without the risk of losing actual money.
 
-> We Create Futures
+Technology Stack:
 
+- React
+- TailwindCSS
+- NodeJS
+- ExpressJS
+- Firebase
+- MongoDB
 
-### About
+### How to Use:
+1. Clone this repository. Ensure that you have Node and npm installed globally on your machine.
+2. Install dependencies:
 
-An application that allows users to simulate real time stock trade without the worry of losing real money
+```bash
+npm install
+```
 
-**technology stack**
+3. Run the test suite:
 
-- React 
-- TailwindCSS 
-- NodeJS 
-- ExpressJS 
-- Firebase 
-- MongoDB 
+```bash
+npm test
+```
 
-<br>
+4. Start the server:
 
-## Project Status 
+```bash
+npm start
+```
 
-The project is currently in development 
+5. Visit the app at:
 
-**Oct 17, 2022 Progress Screenshot** 
-
-![Progress](/src/assets/oct%2018.png)
-
+```
+localhost:3000/ideas
+```
 --- 
 
 #### Example:  
