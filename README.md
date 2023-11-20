@@ -1,6 +1,6 @@
 ## FUNDFUN
 
-![Logo](/src/assets/images/horizonal_logo.png)
+![Logo](https://github.com/Kanan-Bedi/FundFun/blob/main/src/assets/images/horizontal_logo.png)
 ![Dashboard](https://github.com/Kanan-Bedi/FundFun/blob/main/src/assets/oct%2018.png)
 
 ### Overview:
