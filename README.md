@@ -1,5 +1,7 @@
 ## FUNDFUN
 
+![Logo](/src/assets/images/horizonal_logo.png)
+
 ### Overview:
 The project aims to create an application that enables users to engage in simulated real-time stock trading without the risk of losing actual money.
 
