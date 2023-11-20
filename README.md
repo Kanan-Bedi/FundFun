@@ -35,6 +35,6 @@ npm start
 5. Visit the app at:
 
 ```
-localhost:3000/ideas
+localhost:3000/
 ```
 --- 
